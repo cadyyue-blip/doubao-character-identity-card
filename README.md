@@ -17,7 +17,7 @@
 
 ## 安装
 
-1. 下载本仓库，或下载 Releases 中的 ZIP。
+1. 下载本仓库，或在 GitHub 仓库页面选择 `Code → Download ZIP`。
 2. 将包含 `SKILL.md` 和 `LICENSE` 的 `doubao-character-identity-card` 文件夹或 ZIP 导入支持 Skill 的豆包环境。
 3. 上传角色身份参考、服装参考等图片，并明确每张图的用途。
 
